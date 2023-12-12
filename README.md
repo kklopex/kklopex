@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Kauan</h1>
+<h1 align="center">Oi, eu sou Kauan</h1>
 <h3 align="center">Futuro Desenvolvedor Front-End e UX/UI</h3>
 
 - 🔭 Atualmente estudo **Analise e Desenvolvimento de Sistemas**
