@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estudo **Analise e Desenvolvimento de Sistemas**
 
-- 🌱 Eu estou aprendendo **Desenvolvimento FrontEnd e UX/UI**
+- 🌱 Eu estou aprendendo **Desenvolvimento Front-End e UX/UI Design**
 
 - 📫 E-mail de contato **kauanlopexx@gmail.com**
 
