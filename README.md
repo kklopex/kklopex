@@ -1,4 +1,4 @@
-<h1 align="center">Kauan</h1>
+<h1 align="center">Kauan "KKLopex" Lopes</h1>
 <h2 align="center">Desenvolvedor Front-End e Fullstack</h2>
 
 - 🔭 Formado em  **Analise e Desenvolvimento de Sistemas**
