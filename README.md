@@ -3,9 +3,9 @@
 
 - 🔭 Formado em  **Analise e Desenvolvimento de Sistemas**
 
-- 🌱 Crescendo como **Desenvolvedor Front-End e Fullstack**
+- **Desenvolvedor Front-End e Fullstack**
 
-- 📫 E-mail de contato **kauanlopexx@gmail.com**
+
 
 <p align="left">
 </p>
